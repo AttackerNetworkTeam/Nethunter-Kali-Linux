@@ -14,7 +14,7 @@ echo "Menginstal Bahan"
 
 termux-setup-storage
 
-pkg install git -y
+pkg install openssh -y
 
 cd /sdcard
 
